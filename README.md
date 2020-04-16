@@ -76,24 +76,24 @@ ___
 
    CODE BLOKLARI EKLEMEK
 
-'''bash
+```bash
 npm install
 
 npm start
-'''
+```
 
-'''javascript
+```javascript
 funcktion add(num1, num2){
 	return num1 +num2;
 }
-'''
+```
 
 
-'''python
+```python
 def add(num1, num2)
 	return num1 +num2
 
-'''
+```
 
 
       TABLO EKLEMEK
