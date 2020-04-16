@@ -50,8 +50,8 @@ ___
   NOKTALI MADDELER HALİNDE YAZMAK
 
 * Madde 1
- * Madde 1 in alt maddesi
-  * Madde 1 in alt maddesinin alt maddesi
+	* Madde 1 in alt maddesi
+		* Madde 1 in alt maddesinin alt maddesi
 * Madde 2
 * Madde 3
 
@@ -60,8 +60,8 @@ ___
   NUMARALI MADDELER HALİNDE YAZMAK
 
 1. Madde 1
- 1. Madde 1 in alt maddesi
-  1. Madde 1 in alt maddesinin alt maddesi
+	1. Madde 1 in alt maddesi
+		1. Madde 1 in alt maddesinin alt maddesi
 1. Madde 2
 1. Madde 3
 
