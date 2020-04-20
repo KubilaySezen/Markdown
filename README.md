@@ -91,7 +91,9 @@ ___
 [Bu yazının linki olur.](https://www.google.com/" fareyi yazının üstüne tuttugunda cıkacak yazı")
 ```
 [Bu yazının linki olur.](link)
+
 [Bu yazının linki olur.](https://www.google.com/)
+
 [Bu yazının linki olur.](https://www.google.com/ "fareyi yazının üstüne tuttugunda cıkacak yazı")
 
 ---
