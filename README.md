@@ -54,6 +54,7 @@ __Bu Metin__ Kalın
 ~~Bu metin üstü çiziktirilmis~~
 ```
   ÜSTÜ ÇİZİLİ METİN YAZMAK
+  
 ~~Bu metin üstü çiziktirilmis~~
 ---
 ---
