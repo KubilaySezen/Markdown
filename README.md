@@ -24,12 +24,12 @@
 *Bu Metin* İtalik
 _Bu Metin_ İtalik
 
-\*Bu Metin\* İtalik-> Böyle yaparsan yıldızlı metin our "\" bu çizgi gözükmez.
+\*Bu Metin\* İtalik-> Böyle yaparsan yıldızlı metin olur "\" bu çizgi gözükmez.
 ```
 *Bu Metin* İtalik
 _Bu Metin_ İtalik
 
-\*Bu Metin\* İtalik-> Böyle yaparsan yıldızlı metin our "\" bu çizgi gözükmez.
+\*Bu Metin\* İtalik-> Böyle yaparsan yıldızlı metin olur "\" bu çizgi gözükmez.
 
 ---
 ---
